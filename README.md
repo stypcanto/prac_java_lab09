@@ -1,6 +1,22 @@
-# 🌐 Portal Educativo JSP - Lab09
+# 🌐 Portal Educativo JSPF - Lab09
 
 Este proyecto es una aplicación web desarrollada con **Java EE (Servlets + JSP)**, que tiene como objetivo proporcionar un portal educativo centralizado con enlaces a recursos de alto valor como enciclopedias, herramientas matemáticas, mapas interactivos y contenido audiovisual. Está diseñado especialmente para el entorno académico, fomentando el autoaprendizaje y el uso de tecnologías digitales en la educación.
+
+## 🔄 Uso de JSPF (JSP Fragmentos)
+
+Para mejorar la mantenibilidad y reutilización del código, se utilizan archivos `.jspf` (JSP fragments). Estos fragmentos permiten **incluir bloques comunes de HTML/JSP** como menús de navegación o pies de página en múltiples páginas del sistema, evitando la duplicación de código.
+
+Por ejemplo:
+
+- `menu.jspf`: Contiene el menú lateral de navegación.
+- `pie.jspf`: Contiene el pie de página institucional con contacto y redes sociales.
+
+Estos archivos se integran fácilmente en otras páginas JSP mediante la directiva:
+
+```jsp
+<%@ include file="jspf/menu.jspf" %>
+<%@ include file="jspf/pie.jspf" %>
+```
 
 ## 🛠️ Tecnologías utilizadas
 
