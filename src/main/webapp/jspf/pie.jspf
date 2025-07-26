@@ -1,0 +1,27 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+
+<footer id="pie">
+    <div class="footer-content">
+        <div class="footer-left">
+            <h3>🎓 Portal Educativo</h3>
+            <p>&copy; 2025 Todos los derechos reservados.</p>
+        </div>
+
+        <div class="footer-center">
+            <p>
+                📬 <strong>Contacto:</strong><br>
+                <a href="mailto:soporte@educacion.pe">soporte@educacion.pe</a><br>
+                ☎️ Tel: (01) 123-4567
+            </p>
+        </div>
+
+        <div class="footer-right">
+            <p>🔗 Síguenos:</p>
+            <div class="social-icons">
+                <a href="#" title="Facebook">📘</a>
+                <a href="#" title="Twitter">🐦</a>
+                <a href="#" title="YouTube">📺</a>
+            </div>
+        </div>
+    </div>
+</footer>

@@ -1,0 +1,13 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+
+
+<nav aria-label="Menú principal">
+    <ul class="menu">
+        <li><a href="index.jsp">🏠 Inicio</a></li>
+        <li><a href="home.jsp">📄 Home</a></li> <!-- este es el nuevo enlace -->
+        <li><a href="u1.jsp">📚 Wikipedia</a></li>
+        <li><a href="u2.jsp">🗺️ OpenStreetMap</a></li>
+        <li><a href="u3.jsp">📐 GeoGebra</a></li>
+        <li><a href="u4.jsp">🎥 Video Educativo</a></li>
+    </ul>
+</nav>
