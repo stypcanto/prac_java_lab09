@@ -85,3 +85,25 @@ src/
     http://localhost:8080/Lab09/index.jsp
 
     ```
+   
+5. Los resultados de este proyecto son:
+
+
+
+### Página de Inicio
+![Inicio](Documentos/image1.png)
+
+### Enlace Home
+![Inicio](Documentos/image2.png)
+
+### Enlace Wikipedia
+![Inicio](Documentos/image3.png)
+
+### Enlace OpenStreepMap
+![Inicio](Documentos/image4.png)
+
+### Enlace GeoGebra
+![Inicio](Documentos/image5.png)
+
+### Enlace Educativo
+![Inicio](Documentos/image6.png)
